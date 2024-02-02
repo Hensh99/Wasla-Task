@@ -60,7 +60,7 @@ Delete a course based on the provided course ID.
 
 ---
 
-## AcademicCourses Table IN DynamoDB
+## AcademicCourses Table In DynamoDB
 
 <p align="center">
   <img src="images/DB.png" alt="DB.png" style="max-width: 100%; height: auto;"/>
@@ -92,7 +92,7 @@ Delete a course based on the provided course ID.
 
 ---
 
-## POST New Course To DB
+## POST New Course To DB Endpoint
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="images/AddingCourse.png" alt="AddingCourse" style="max-width: 100%; height: auto; margin-right: 10px;">
@@ -104,10 +104,30 @@ Delete a course based on the provided course ID.
 
 ---
 
-## PATCH(update) Course In DB
+## PATCH(update) Course In DB Endpoint
 
 <p align="center">
   <img src="images/updateCourseAuthorized.png" alt="updateCourseAuthorized.png" style="max-width: 100%; height: auto;"/>
+</p>
+
+---
+
+## DELETE Course To DB Endpoint
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="images/DeleteCourseAuthorized.png" alt="DeleteCourseAuthorized" style="max-width: 100%; height: auto; margin-right: 10px;">
+  <img src="images/PythonCourseDeleted.png" alt="PythonCourseDeleted" style="max-width: 100%; height: auto;">
+</div>
+<p align="center">
+  <em>Figure 4: DeleteCourseAuthorized and PythonCourseDeleted</em>
+</p>
+
+---
+
+## Example of Expired Token
+
+<p align="center">
+  <img src="images/TokenExpired.png" alt="TokenExpired.png" style="max-width: 100%; height: auto;"/>
 </p>
 
 ---
