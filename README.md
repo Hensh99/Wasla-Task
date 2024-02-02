@@ -1,5 +1,12 @@
 ﻿# Wasla-Task
 
+<p align="center">
+  <img src="images/Architecture.png" alt="Architecture.png" width="400" height="300"/>
+</p>
+<p align="center">
+  <em>Figure 1: Image 1</em>
+</p>
+
 # Academic Courses Lambda Function
 
 This AWS Lambda function handles requests related to academic courses and interacts with a DynamoDB table.
@@ -73,4 +80,3 @@ Mohamed Hany Zakaria
 # GNU Affero General Public License v3.0
 
 This project is licensed under the GNU Affero General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details.
-
