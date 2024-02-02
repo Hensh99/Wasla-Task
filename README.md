@@ -60,15 +60,19 @@ Delete a course based on the provided course ID.
 
 ---
 
+## AcademicCourses Table IN DynamoDB
+
 <p align="center">
   <img src="images/DB.png" alt="DB.png" style="max-width: 100%; height: auto;"/>
 </p>
 
 ---
 
-<div align="center">
-  <img src="images/getCoursesAuthorized.png" alt="getCoursesAuthorized" style="max-width: 100%; height: auto;"/>
-  <img src="images/getCoursesUnauthorized.png" alt="getCoursesUnauthorized" style="max-width: 100%; height: auto;"/>
+## Get All Courses
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="images/getCoursesAuthorized.png" alt="getCoursesAuthorized" style="max-width: 100%; height: auto; margin-right: 10px;">
+  <img src="images/getCoursesUnauthorized.png" alt="getCoursesUnauthorized" style="max-width: 100%; height: auto;">
 </div>
 <p align="center">
   <em>Figure 1: Comparison of getCoursesAuthorized and getCoursesUnauthorized</em>
