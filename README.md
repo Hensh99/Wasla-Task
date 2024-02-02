@@ -1,5 +1,7 @@
 ﻿# Wasla-Task
 
+![Architecture](images/Architecture)
+
 # Academic Courses Lambda Function
 
 This AWS Lambda function handles requests related to academic courses and interacts with a DynamoDB table.
