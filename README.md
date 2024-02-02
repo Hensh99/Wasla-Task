@@ -68,7 +68,7 @@ Delete a course based on the provided course ID.
 
 ---
 
-## Get All Courses
+## Get All Courses Endpoint
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="images/getCoursesAuthorized.png" alt="getCoursesAuthorized" style="max-width: 100%; height: auto; margin-right: 10px;">
@@ -76,6 +76,38 @@ Delete a course based on the provided course ID.
 </div>
 <p align="center">
   <em>Figure 1: Comparison of getCoursesAuthorized and getCoursesUnauthorized</em>
+</p>
+
+---
+
+## Get Specific Course Endpoint
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="images/getSpecificCourseAuthorized.png" alt="getSpecificCourseAuthorized" style="max-width: 100%; height: auto; margin-right: 10px;">
+  <img src="images/getSpecificCourseUnauthorized.png" alt="getSpecificCourseUnauthorized" style="max-width: 100%; height: auto;">
+</div>
+<p align="center">
+  <em>Figure 2: Comparison of getSpecificCourseAuthorized and getSpecificCourseUnauthorized</em>
+</p>
+
+---
+
+## POST New Course To DB
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="images/AddingCourse.png" alt="AddingCourse" style="max-width: 100%; height: auto; margin-right: 10px;">
+  <img src="images/afterAddingCourseInDB.png" alt="afterAddingCourseInDB" style="max-width: 100%; height: auto;">
+</div>
+<p align="center">
+  <em>Figure 3: Comparison of AddingCourse and afterAddingCourseInDB</em>
+</p>
+
+---
+
+## PATCH(update) Course In DB
+
+<p align="center">
+  <img src="images/updateCourseAuthorized.png" alt="updateCourseAuthorized.png" style="max-width: 100%; height: auto;"/>
 </p>
 
 ---
