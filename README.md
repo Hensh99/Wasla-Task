@@ -4,7 +4,7 @@
   <img src="images/Architecture.png" alt="Architecture.png" style="max-width: 100%; height: auto;"/>
 </p>
 
-# Academic Courses Lambda Function
+# Serverless API Lambda Function
 
 This AWS Lambda function handles requests related to academic courses and interacts with a DynamoDB table.
 
