@@ -1,13 +1,5 @@
 ﻿# Wasla-Task
 
-<p align="center">
-  <img src="images/Architecture.png" alt="Architecture.png" width="400" height="300"/>
-</p>
-<p align="center">
-  <em>Figure 1: Image 1</em>
-</p>
-
-
 # Academic Courses Lambda Function
 
 This AWS Lambda function handles requests related to academic courses and interacts with a DynamoDB table.
