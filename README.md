@@ -1,10 +1,7 @@
 ﻿# Wasla-Task
 
 <p align="center">
-  <img src="images/Architecture.png" alt="Architecture.png" width="400" height="300"/>
-</p>
-<p align="center">
-  <em>Figure 1: Image 1</em>
+  <img src="images/Architecture.png" alt="Architecture.png" style="max-width: 100%; height: auto;"/>
 </p>
 
 # Academic Courses Lambda Function
